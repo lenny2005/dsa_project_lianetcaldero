@@ -20,4 +20,5 @@ maybe take a key -> convert and have a menu to
                           - most optimal for ...
                           - speed, time, overall, wtvr
 
+chaining, linear probing, double hashing, cuckoo hashing
                 
